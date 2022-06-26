@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.AssemblyInfo.cs
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\bin\Debug\net6.0\dogAndFriend.exe
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\bin\Debug\net6.0\dogAndFriend.deps.json
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\bin\Debug\net6.0\dogAndFriend.runtimeconfig.json
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\bin\Debug\net6.0\dogAndFriend.dll
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\bin\Debug\net6.0\dogAndFriend.pdb
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.dll
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\refint\dogAndFriend.dll
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.pdb
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\dogAndFriend.genruntimeconfig.cache
+C:\Users\Александр\Desktop\lesson\C#\lesson3\dogAndFriend\obj\Debug\net6.0\ref\dogAndFriend.dll

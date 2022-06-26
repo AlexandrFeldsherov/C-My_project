@@ -1,4 +1,4 @@
-﻿Console.WriteLine("ведите скорость первого друга ");
+﻿/*Console.WriteLine("ведите скорость первого друга ");
 int vFirst = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("ведите скорость второго друга ");
 int vSecond = Convert.ToInt32(Console.ReadLine());
@@ -6,23 +6,21 @@ Console.WriteLine("ведите скорость собаки, но учти с�
 int vDog= Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("ведите расстояние между друзей ");
 int sFriend = Convert.ToInt32(Console.ReadLine());
-int nDog=0;
 bool fS=false;
-while(sFriend<1)
+
+for (int nDog=0;sFriend<1;nDog++) Console.Write("Собака пробежала от одного друга до другогого, до того момента как они встретились "+nDog+" раз!!");
 {
     if (fS==true) 
     {
         sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vSecond));
         fS=true;
-        nDog=nDog+1;
-
+       
     }
-    else 
+    else
     {
         sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vFirst));
         fS=false;
-         nDog=nDog+1;
     }
-}
-Console.Write("Собака пробежала от одного друга до другогого, до того момента как они встретились "+nDog+" раз!!");
 
+}
+ Console.Write("Собака пробежала от одного друга до другогого, до того момента как они встретились "+nDog+" раз!!"); */
