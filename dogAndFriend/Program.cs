@@ -13,13 +13,15 @@ for (int nDog=0;sFriend<1;nDog++,N=nDog) Console.Write("Собака пробе�
 {
     if (fS==true) 
     {
-        sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vSecond));
-        fS=true;
+        sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vFirst));
+        fS=false;
+        Console.WriteLine(N);
     }
     else
     {
-        sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vFirst));
-        fS=false;
+        sFriend=sFriend-(vFirst+vSecond)*(sFriend/(vDog+vSecond));
+        fS=true;
+        Console.WriteLine(N);
     }
 
 }
